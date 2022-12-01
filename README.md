@@ -52,4 +52,17 @@ By studying the evolution of these communities over time, we can conclude that s
 
 ## Graphs
 
+**1. Winner Takes All Method**
+<p align="center">
+<img src = /Results/wta.png width="720" />
+</p>
 
+**2. Minimum Spanning Tree Method**
+<p align="center">
+<img src = /Results/mst.png width="720" />
+</p>
+
+**3. Crisis Analysis**
+<p align="center">
+<img src = /Results/ca.png width="720" />
+</p>
